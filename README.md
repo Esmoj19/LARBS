@@ -7,7 +7,7 @@ Forked from [Luke's Auto-Rice Bootstraping Scripts (LARBS)](https://github.com/L
 On an Arch based distribution as root, run the following:
 
 ```
-curl -LO larbs.xyz/larbs.sh
+curl -LO rainbowch.net/resource/larbs.sh
 sh larbs.sh
 ```
 
@@ -27,8 +27,8 @@ programs).
 
 ## Customization
 
-By default, LARBS uses the programs [here in progs.csv](progs.csv) and installs
-[my dotfiles repo (voidrice) here](https://github.com/lukesmithxyz/voidrice),
+By default, LARBS uses the programs [here in progs.csv](./progs.csv) and installs
+[my dotfiles repo here](https://github.com/rainbowhxch/dotfiles),
 but you can easily change this by either modifying the default variables at the
 beginning of the script or giving the script one of these options:
 
