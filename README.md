@@ -7,7 +7,7 @@ Forked from [Luke's Auto-Rice Bootstraping Scripts (LARBS)](https://github.com/L
 On an Arch based distribution as root, run the following:
 
 ```
-curl -LO rainbowch.net/resource/larbs.sh
+curl -LO Esmoj19/larbs.sh
 sh larbs.sh
 ```
 
